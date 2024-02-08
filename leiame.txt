@@ -1,0 +1,11 @@
+LEIA-ME
+
+* O serviço roda no diretório C:\inetpub\wwwroot\ (foi feito em cima do servidor ISS)
+* O Banco está vazio
+* Favor altere as configurações dos arquivos servidor.ini e config.ini de acordo com seu ambiente
+* as Bibliotecas RESTRequest4Delphi-master e dataset-serialize-adapter-restrequest4delphi-main precisam ser inseridas no Delphi para compilação do projeto
+     copie o diretorio 
+	    SEU_DIRETORIO\RESTRequest4Delphi-master\RESTRequest4Delphi-master\src
+		SEU_DIRETORIO\dataset-serialize-adapter-restrequest4delphi-main\src 
+	 para a library do delphi
+	 
